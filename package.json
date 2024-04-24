@@ -1,0 +1,19 @@
+{
+  "name": "yandex-praktikum-rating-service",
+  "version": "1.0.0",
+  "description": "Домашний проект сервиса с рейтингом",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app.js",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ct0kan/yandex-praktikum-rating-service"
+  },
+  "author": "ct0kan",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
