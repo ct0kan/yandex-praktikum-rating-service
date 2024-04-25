@@ -1,3 +1,5 @@
+const fs = require("fs").promises;
+
 const { parseBody } = require("../appModules/http-utils");
 const { config, createRating, updateRating } = require("../appModules/rating");
 
